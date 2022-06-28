@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Техническая информация о документе -->
+		<meta charset="UTF-8">
+		<!-- Определяем кодировку символов документа -->
+		<title>Travel Guide</title>	
+		<link rel="stylesheet" href="C:\HTML Project\style.css" type="text/css">
+	<head>
+	<body>
+		<header></header>
+		<div class="header">
+			<div id="headertop">
+				<h1>Добро пожаловать!</h1>
+			</div>
+			<div id="header-under-top">
+			
+			<ul>
+				<li><a href="#">Главная</a></li>
+				<li><a href="#">Туры</a></li>
+				<li><a href="#">Стрыны</a></li>
+				<li><a href="#">Горяцие туры</a></li>
+				<li><a href="#">О нас</a></li>
+				<li><a href="#">Контанкты</a></li>		
+			</ul> 
+
+			</div>
+		</div>
+		<div id="content">Content Section</div>
+		<div id="footer">Footer Section</div>
+	</body>
+</html>
+
